@@ -49,10 +49,11 @@ include tools we _haven't_ used to date or to bring tools in from other projects
 
 ### Writing
 
-There are two main writing assignments accompanying this project.
+There are three (3) writing assignments accompanying this project.
 
 |Due Date |Description |Document |
 |:--------|:-----------|:--------|
+|7 April  |Project Plan |[writing/plan.md](writing/plan.md) |
 |19 April |Progress Report |[writing/progress.md](writing/progress.md) |
 |9 May    |Final reflection|[writing/reflection.md](writing/reflection.md) |
 
