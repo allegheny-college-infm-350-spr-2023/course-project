@@ -1,5 +1,9 @@
 # INFM 350: Project Progress
 
+## Provide a tentative title for the work.
+
+TODO: Titles are the most fun
+
 ## Description
 
 TODO: Provide a 3-5 sentence description of your progress to this point. What has been
