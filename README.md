@@ -31,7 +31,10 @@ But really, produce a work of:
 *  _no fewer than_ 30,000 words
 * _no more than_ 49,999 words
 * is related to `3` of the works we've read this semester
-* is in PDF or other non-Markdown form
+* is in PDF or other non-Markdown form, with
+  * a title page
+  * a Table of Contents (if appropriate)
+  * a list of references (if appropriate)
 
 ### Outcomes
 
